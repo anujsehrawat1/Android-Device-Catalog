@@ -33,7 +33,7 @@ Since the architecture is 100% static and client-side, you do not need to instal
 Simply clone the repository and open the HTML file in any modern web browser:
 
 ```bash
-git clone https://github.com/<your-github-username>/Android-Device-Catalog.git
+git clone https://github.com/anujsehrawat1/Android-Device-Catalog.git
 ```
 Then, double-click on `web/index.html` to start exploring the catalog!
 
