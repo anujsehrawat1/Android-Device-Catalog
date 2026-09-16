@@ -8,14 +8,14 @@ A comprehensive, lightning-fast web explorer and dataset containing information 
 
 Here is a glimpse of the kind of data available in this catalog:
 
-| Marketing Name | Model Code | OS Version | Form Factor / Notes |
-| :--- | :--- | :--- | :--- |
-| **Galaxy S24 Ultra** | `SM-S928B` | Android 14 | Smartphone |
-| **OnePlus 12** | `PJD110` | Android 14 | Smartphone |
-| **Pixel 8 Pro** | `husky` | Android 14 | Smartphone |
-| **EDENWOOD 4K Android TV** | `kenton` | Android 11 | Android TV |
-| **Oppo Reno 11** | `OP5ABFL1` | Android 14 - 16 | Smartphone |
-| **Galaxy Watch6** | `fresh6bsm` | Wear OS 4 | Smartwatch |
+| Image | Marketing Name | Model Code | OS Version | Form Factor / Notes |
+| :---: | :--- | :--- | :--- | :--- |
+| <img src="images/samsung SC-52D.png" width="40"> | **Samsung Galaxy S23 Ultra** | `samsung SC-52D` | Android 16 | Smartphone |
+| <img src="images/google husky.png" width="40"> | **Pixel 8 Pro** | `google husky` | Android 14 | Smartphone |
+| <img src="images/OnePlus OP591BL1.png" width="40"> | **OnePlus 11 5G** | `OnePlus OP591BL1` | Android 16 | Smartphone |
+| <img src="images/OPPO OP5ABFL1.png" width="40"> | **Oppo Reno 11** | `OPPO OP5ABFL1` | Android 14 - 16 | Smartphone |
+| <img src="images/EDENWOOD kenton.svg" width="40"> | **EDENWOOD 4K Android TV** | `EDENWOOD kenton` | Android 11 | Android TV |
+| <img src="images/samsung fresh8us.png" width="40"> | **Galaxy Watch8** | `samsung fresh8us` | Wear OS 4 | Smartwatch |
 
 ## Features
 - **Massive Dataset**: Contains detailed information (Model, Marketing Name, Android OS Versions) for 25,000+ devices.
