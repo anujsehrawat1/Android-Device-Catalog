@@ -12,6 +12,23 @@ const stats = document.getElementById('stats');
 // The data is now available locally from window.DEVICES_DATA (bypassing backend)
 const allDevices = window.DEVICES_DATA || [];
 
+/**
+ * Escapes HTML characters in metadata strings to prevent injection when rendering DOM template.
+ * @param {string} str - Raw input string.
+ * @returns {string} HTML safe string.
+ */
+function escapeHtml(str) {
+    if (!str) return '';
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+}
+
+/**
+ * Filters and paginates devices based on current query and page state.
+ */
 function fetchDevices() {
     // Client-side search & filtering
     let filtered = allDevices;
@@ -40,6 +57,10 @@ function fetchDevices() {
     updatePagination(total, totalPages);
 }
 
+/**
+ * Renders the device cards into the container element.
+ * @param {Array<Object>} devices - List of device objects to display for the current page.
+ */
 function renderDevices(devices) {
     if (!devices || devices.length === 0) {
         container.innerHTML = '<div class="col-span-full text-center py-10 text-gray-500">No devices found.</div>';
@@ -47,6 +68,10 @@ function renderDevices(devices) {
     }
 
     container.innerHTML = devices.map(d => {
+        const name = escapeHtml(d.Name || 'Unknown Device');
+        const model = escapeHtml(d.Model || 'N/A');
+        const version = escapeHtml(d.Version || 'N/A');
+
         // Construct full URL for local images relative to index.html
         // d.Image_URL is like "/images/filename.svg"
         let imgUrl = d.Image_URL ? '..' + d.Image_URL : 'https://via.placeholder.com/100?text=No+Image';
@@ -54,18 +79,23 @@ function renderDevices(devices) {
         return `
         <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-5 flex flex-row sm:flex-col items-center sm:items-start gap-4 hover:shadow-md transition">
             <div class="flex-shrink-0 sm:w-full flex justify-center">
-                <img src="${imgUrl}" alt="${d.Name}" class="w-16 h-16 sm:w-24 sm:h-24 object-contain">
+                <img src="${imgUrl}" alt="${name}" class="w-16 h-16 sm:w-24 sm:h-24 object-contain">
             </div>
             <div class="flex-1 min-w-0">
-                <h2 class="text-lg font-bold text-gray-900 truncate" title="${d.Name}">${d.Name || 'Unknown Device'}</h2>
-                <p class="text-sm text-gray-500 mt-1"><strong>Model:</strong> ${d.Model || 'N/A'}</p>
-                <p class="text-sm text-gray-500"><strong>OS:</strong> ${d.Version || 'N/A'}</p>
+                <h2 class="text-lg font-bold text-gray-900 truncate" title="${name}">${name}</h2>
+                <p class="text-sm text-gray-500 mt-1"><strong>Model:</strong> ${model}</p>
+                <p class="text-sm text-gray-500"><strong>OS:</strong> ${version}</p>
             </div>
         </div>
         `;
     }).join('');
 }
 
+/**
+ * Updates pagination state text and button disabled attributes.
+ * @param {number} total - Total count of matched devices.
+ * @param {number} totalPages - Total calculated pages.
+ */
 function updatePagination(total, totalPages) {
     pageInfo.innerText = `Page ${currentPage} of ${totalPages}`;
     stats.innerText = `${total.toLocaleString()} devices found`;
