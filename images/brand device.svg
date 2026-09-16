@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_tablet@2x</title>
+    <g id="img_tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#F1F3F4" x="0" y="0" width="96" height="96"></rect>
+            <g id="Group" transform="translate(18.000000, 18.000000)" fill="#70757A" opacity="0.439999998">
+                <g id="misc/achievement_24px">
+                    <path d="M47.5,2.5 L12.5,2.5 C9.75,2.5 7.5,4.75 7.5,7.5 L7.5,10 L7.5,45 L7.5,52.5 C7.5,55.25 9.75,57.5 12.5,57.5 L47.5,57.5 C50.25,57.5 52.5,55.25 52.5,52.5 L52.5,45 L52.5,10 L52.5,7.5 C52.5,4.75 50.25,2.5 47.5,2.5 Z M12.5,15 L47.5,15 L47.5,40 L12.5,40 L12.5,15 Z M47.5,52.5 L12.5,52.5 L12.5,45 L47.5,45 L47.5,52.5 Z M12.5,10 L12.5,7.5 L47.5,7.5 L47.5,10 L12.5,10 Z M30,51.25 C31.3807119,51.25 32.5,50.1307119 32.5,48.75 C32.5,47.3692881 31.3807119,46.25 30,46.25 C28.6192881,46.25 27.5,47.3692881 27.5,48.75 C27.5,50.1307119 28.6192881,51.25 30,51.25 Z" id="ic_tablet_mac_24px"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
