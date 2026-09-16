@@ -4,6 +4,8 @@ A comprehensive, lightning-fast web explorer and dataset containing information 
 
 ✨ **[Click Here for Live Demo](https://anujsehrawat1.github.io/Android-Device-Catalog/web/)** ✨
 
+![Device Catalog Web App UI Preview](images/ui-preview.png)
+
 ## 📊 Sample Data
 
 Here is a glimpse of the kind of data available in this catalog:
