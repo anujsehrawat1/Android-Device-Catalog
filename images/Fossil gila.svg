@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_wear@2x</title>
+    <g id="img_wear" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#F1F3F4" x="0" y="0" width="96" height="96"></rect>
+            <g id="Group" transform="translate(18.000000, 18.000000)" fill="#70757A" opacity="0.439999998">
+                <g id="misc/achievement_24px">
+                    <path d="M40,0 L20,0 L17.625,14.325 C12.975,17.975 10,23.625 10,30 C10,36.375 12.975,42.025 17.625,45.675 L20,60 L40,60 L42.4,45.675 C47.025,42.025 50,36.35 50,30 C50,23.65 47.025,17.975 42.4,14.325 L40,0 L40,0 Z M30,45 C21.725,45 15,38.275 15,30 C15,21.725 21.725,15 30,15 C38.275,15 45,21.725 45,30 C45,38.275 38.275,45 30,45 L30,45 Z" id="ic_watch_24px"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
