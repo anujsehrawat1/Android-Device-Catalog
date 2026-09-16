@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_hardware@2x</title>
+    <defs>
+        <path d="M7.5,15 L52.5,15 L52.5,10 L7.5,10 C4.75,10 2.5,12.25 2.5,15 L2.5,45 C2.5,47.75 4.75,50 7.5,50 L17.5,50 L17.5,45 L7.5,45 L7.5,15 Z M32.5,30 L22.5,30 L22.5,34.45 C20.975,35.825 20,37.775 20,40 C20,42.225 20.975,44.175 22.5,45.55 L22.5,50 L32.5,50 L32.5,45.55 C34.025,44.175 35,42.2 35,40 C35,37.8 34.025,35.825 32.5,34.45 L32.5,30 Z M27.5,43.75 C25.425,43.75 23.75,42.075 23.75,40 C23.75,37.925 25.425,36.25 27.5,36.25 C29.575,36.25 31.25,37.925 31.25,40 C31.25,42.075 29.575,43.75 27.5,43.75 Z M55,20 L40,20 C38.75,20 37.5,21.25 37.5,22.5 L37.5,47.5 C37.5,48.75 38.75,50 40,50 L55,50 C56.25,50 57.5,48.75 57.5,47.5 L57.5,22.5 C57.5,21.25 56.25,20 55,20 Z M52.5,45 L42.5,45 L42.5,25 L52.5,25 L52.5,45 Z" id="path-1"></path>
+    </defs>
+    <g id="img_hardware" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#F1F3F4" x="0" y="0" width="96" height="96"></rect>
+            <g id="Group" transform="translate(18.000000, 18.000000)" opacity="0.439999998">
+                <g id="misc/achievement_24px">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="ic_devices_other_24px" fill="#70757A" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
