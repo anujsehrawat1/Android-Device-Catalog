@@ -50,5 +50,10 @@ If you want to use this massive database in your own project, simply grab the `d
 }
 ```
 
+## 🤖 Automated Updates
+
+To keep the catalog up-to-date without manually scraping the entire Play Console again, this project includes a smart automation script. It filters the Play Console for recently added devices, downloads their images, updates the database, and pushes to GitHub automatically. 
+Check out the [Automated Updater](updater/README.md) for details on how to use it!
+
 ## Contributing
 Pull requests are welcome! If you notice any missing devices or have updated device images, feel free to contribute to the dataset.
