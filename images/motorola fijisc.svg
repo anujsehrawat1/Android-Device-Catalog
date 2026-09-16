@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>img_phone@2x</title>
+    <g id="img_phone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#F1F3F4" x="0" y="0" width="96" height="96"></rect>
+            <g id="Group" transform="translate(18.000000, 18.000000)" fill="#70757A" opacity="0.439999998">
+                <g id="misc/achievement_24px">
+                    <path d="M42.5,2.525 L17.5,2.5 C14.75,2.5 12.5,4.75 12.5,7.5 L12.5,52.5 C12.5,55.25 14.75,57.5 17.5,57.5 L42.5,57.5 C45.25,57.5 47.5,55.25 47.5,52.5 L47.5,7.5 C47.5,4.75 45.25,2.525 42.5,2.525 Z M42.5,52.5 L17.5,52.5 L17.5,50 L42.5,50 L42.5,52.5 Z M42.5,45 L17.5,45 L17.5,15 L42.5,15 L42.5,45 Z M17.5,10 L17.5,7.5 L42.5,7.5 L42.5,10 L17.5,10 Z" id="ic_smartphone_24px"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
