@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Console Devices</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans antialiased">
+    
+    <div class="max-w-7xl mx-auto p-4 sm:p-6">
+        <header class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
+            <h1 class="text-3xl font-bold text-gray-900">Device Catalog</h1>
+            <div class="relative w-full md:w-96">
+                <input type="text" id="searchInput" placeholder="Search by name or model..." 
+                    class="w-full pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm">
+                <i class="fas fa-search absolute left-3 top-3 text-gray-400"></i>
+            </div>
+        </header>
+
+        <div id="stats" class="text-sm text-gray-600 mb-4 font-semibold">Loading devices...</div>
+
+        <!-- Devices Container -->
+        <!-- On mobile it will be a 1-column list (flex/col or grid-cols-1), on desktop it's a grid -->
+        <div id="devicesContainer" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <!-- Items injected by JS -->
+        </div>
+
+        <!-- Pagination -->
+        <div class="mt-8 flex justify-center items-center gap-4">
+            <button id="prevBtn" class="px-4 py-2 bg-white border shadow-sm rounded-md text-gray-700 disabled:opacity-50 hover:bg-gray-50 transition">Previous</button>
+            <span id="pageInfo" class="text-gray-700 font-medium">Page 1</span>
+            <button id="nextBtn" class="px-4 py-2 bg-white border shadow-sm rounded-md text-gray-700 disabled:opacity-50 hover:bg-gray-50 transition">Next</button>
+        </div>
+    </div>
+
+    <script src="../data/devices_data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
