@@ -8,14 +8,13 @@ A comprehensive, lightning-fast web explorer and dataset containing information 
 
 Here is a glimpse of the kind of data available in this catalog:
 
-| Image | Marketing Name | Model Code | OS Version | Form Factor / Notes |
+| Image | Marketing Name | Model Code | OS / Platform | Form Factor |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="images/samsung SC-52D.png" width="40"> | **Samsung Galaxy S23 Ultra** | `samsung SC-52D` | Android 16 | Smartphone |
-| <img src="images/google husky.png" width="40"> | **Pixel 8 Pro** | `google husky` | Android 14 | Smartphone |
-| <img src="images/OnePlus OP591BL1.png" width="40"> | **OnePlus 11 5G** | `OnePlus OP591BL1` | Android 16 | Smartphone |
-| <img src="images/OPPO OP5ABFL1.png" width="40"> | **Oppo Reno 11** | `OPPO OP5ABFL1` | Android 14 - 16 | Smartphone |
-| <img src="images/EDENWOOD kenton.svg" width="40"> | **EDENWOOD 4K Android TV** | `EDENWOOD kenton` | Android 11 | Android TV |
-| <img src="images/samsung fresh8us.png" width="40"> | **Galaxy Watch8** | `samsung fresh8us` | Wear OS 4 | Smartwatch |
+| <img src="images/samsung%20SC-52D.png" width="40"> | **Samsung Galaxy S23 Ultra** | `samsung SC-52D` | Android | Smartphone |
+| <img src="images/samsung%20gts9uwifi.png" width="40"> | **Samsung Galaxy Tab S9 Ultra** | `samsung gts9uwifi` | Android | Tablet |
+| <img src="images/Sony%20BRAVIA_CT1.png" width="40"> | **Sony BRAVIA CT1** | `Sony BRAVIA_CT1` | Android TV | Smart TV |
+| <img src="images/google%20meridian_lte.png" width="40"> | **Google Pixel Watch 4** | `google meridian_lte` | Wear OS | Smartwatch |
+| <img src="images/google%20soraka_cheets.png" width="40"> | **HP Chromebook x2** | `google soraka_cheets` | Chrome OS | Chromebook |
 
 ## Features
 - **Massive Dataset**: Contains detailed information (Model, Marketing Name, Android OS Versions) for 25,000+ devices.
