@@ -12,11 +12,11 @@ Here is a glimpse of the kind of data available in this catalog:
 
 | Image | Marketing Name | Model Code | OS / Platform | Form Factor |
 | :---: | :--- | :--- | :--- | :--- |
-| <img src="images/samsung%20SC-52D.png" width="40"> | **Samsung Galaxy S23 Ultra** | `samsung SC-52D` | Android | Smartphone |
-| <img src="images/samsung%20gts9uwifi.png" width="40"> | **Samsung Galaxy Tab S9 Ultra** | `samsung gts9uwifi` | Android | Tablet |
-| <img src="images/Sony%20BRAVIA_CT1.png" width="40"> | **Sony BRAVIA CT1** | `Sony BRAVIA_CT1` | Android TV | Smart TV |
-| <img src="images/google%20meridian_lte.png" width="40"> | **Google Pixel Watch 4** | `google meridian_lte` | Wear OS | Smartwatch |
-| <img src="images/google%20soraka_cheets.png" width="40"> | **HP Chromebook x2** | `google soraka_cheets` | Chrome OS | Chromebook |
+| <img src="images/samsung_SC-52D.png" width="40"> | **Samsung Galaxy S23 Ultra** | `samsung SC-52D` | Android | Smartphone |
+| <img src="images/samsung_gts9uwifi.png" width="40"> | **Samsung Galaxy Tab S9 Ultra** | `samsung gts9uwifi` | Android | Tablet |
+| <img src="images/Sony_BRAVIA_CT1.png" width="40"> | **Sony BRAVIA CT1** | `Sony BRAVIA_CT1` | Android TV | Smart TV |
+| <img src="images/google_meridian_lte.png" width="40"> | **Google Pixel Watch 4** | `google meridian_lte` | Wear OS | Smartwatch |
+| <img src="images/google_soraka_cheets.png" width="40"> | **HP Chromebook x2** | `google soraka_cheets` | Chrome OS | Chromebook |
 
 ## Features
 - **Massive Dataset**: Contains detailed information (Model, Marketing Name, Android OS Versions) for 25,000+ devices.

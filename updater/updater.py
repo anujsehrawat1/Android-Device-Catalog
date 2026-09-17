@@ -35,7 +35,7 @@ def download_image(session, original_url, model_name):
         return None
     
     # Format filename safely
-    safe_model = str(model_name).replace('/', '_').replace('\\', '_').replace(':', '_').replace('?', '_')
+    safe_model = str(model_name).replace('/', '_').replace('\\', '_').replace(':', '_').replace('?', '_').replace(' ', '_')
     filename = f"{safe_model}.png"
     filepath = os.path.join(IMAGES_DIR, filename)
     
