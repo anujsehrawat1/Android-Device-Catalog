@@ -175607,5 +175607,671 @@
         "Version": "15 \u2013 16",
         "Model": "HONOR HNLGN-Q1",
         "Original_URL": "https://lh3.googleusercontent.com/v0C_X-0cpA0chX_0ZEfXIT9G1-13R6_aWcc5HPgDcC1rRHm5kVJR9KMP4wNTjiTMINpQko9M2ND_"
+    },
+    {
+        "Name": "Tibuta A10_A16_EU",
+        "Model": "Tibuta A10_A16_EU",
+        "Version": "16",
+        "Image_URL": "/images/Tibuta_A10_A16_EU.png"
+    },
+    {
+        "Name": "CATCHTABLE CW10",
+        "Model": "Catchtable CW10",
+        "Version": "16",
+        "Image_URL": "/images/Catchtable_CW10.png"
+    },
+    {
+        "Name": "Hammer Blade_6_Pro_EEA",
+        "Model": "Hammer Hammer_Blade_6_Pro",
+        "Version": "16",
+        "Image_URL": "/images/Hammer_Hammer_Blade_6_Pro.png"
+    },
+    {
+        "Name": "POCO M8x 5G",
+        "Model": "POCO steppe",
+        "Version": "16",
+        "Image_URL": "/images/POCO_steppe.png"
+    },
+    {
+        "Name": "Tecno TECNO POP 20",
+        "Model": "TECNO TECNO-KN3s",
+        "Version": "16",
+        "Image_URL": "/images/TECNO_TECNO-KN3s.png"
+    },
+    {
+        "Name": "aigo A19",
+        "Model": "aigo A19",
+        "Version": "13",
+        "Image_URL": "/images/aigo_A19.png"
+    },
+    {
+        "Name": "Panasonic 2K TV LA",
+        "Model": "Panasonic beomil",
+        "Version": "14",
+        "Image_URL": "/images/Panasonic_beomil.png"
+    },
+    {
+        "Name": "Oukitel WP100_Plus_EEA",
+        "Model": "OUKITEL WP100_Plus",
+        "Version": "16",
+        "Image_URL": "/images/OUKITEL_WP100_Plus.png"
+    },
+    {
+        "Name": "DGTEC DG101SVGB6MB",
+        "Model": "DGTEC DG101SVGB6MB",
+        "Version": "16",
+        "Image_URL": "/images/DGTEC_DG101SVGB6MB.png"
+    },
+    {
+        "Name": "General Mobile GM 26 SE 5G",
+        "Model": "GM G907",
+        "Version": "16",
+        "Image_URL": "/images/GM_G907.png"
+    },
+    {
+        "Name": "Xiaomi Pad 9 Pro Max",
+        "Model": "Xiaomi yingtian",
+        "Version": "17",
+        "Image_URL": "/images/Xiaomi_yingtian.png"
+    },
+    {
+        "Name": "MAXHUB E3_Series",
+        "Model": "MAXHUB E3_Series",
+        "Version": "16",
+        "Image_URL": "/images/MAXHUB_E3_Series.png"
+    },
+    {
+        "Name": "Nissan NissanConnect",
+        "Model": "nissan aivi2e_high",
+        "Version": "15",
+        "Image_URL": "/images/nissan_aivi2e_high.svg"
+    },
+    {
+        "Name": "TABWEE T30_US",
+        "Model": "TABWEE T30_US",
+        "Version": "16",
+        "Image_URL": "/images/TABWEE_T30_US.png"
+    },
+    {
+        "Name": "raemond K70Pro_ROW",
+        "Model": "raemond K70Pro",
+        "Version": "16",
+        "Image_URL": "/images/raemond_K70Pro.png"
+    },
+    {
+        "Name": "Veidoo T20_Play",
+        "Model": "Veidoo T20_Play",
+        "Version": "15",
+        "Image_URL": "/images/Veidoo_T20_Play.png"
+    },
+    {
+        "Name": "TABWEE T30_EA",
+        "Model": "TABWEE T30_EA",
+        "Version": "16",
+        "Image_URL": "/images/TABWEE_T30_EA.png"
+    },
+    {
+        "Name": "Hotwav X26 Ultra",
+        "Model": "HOTWAV X26_Ultra",
+        "Version": "16",
+        "Image_URL": "/images/HOTWAV_X26_Ultra.png"
+    },
+    {
+        "Name": "Selvas BrailleSense7_EEA",
+        "Model": "SELVAS BrailleSense7",
+        "Version": "15",
+        "Image_URL": "/images/SELVAS_BrailleSense7.png"
+    },
+    {
+        "Name": "OBE(CN) X7D Ultra",
+        "Model": "OBE himalaya",
+        "Version": "11",
+        "Image_URL": "/images/OBE_himalaya.png"
+    },
+    {
+        "Name": "Doogee Fire 7",
+        "Model": "DOOGEE G1T-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_G1T-C.png"
+    },
+    {
+        "Name": "Samsung Galaxy A18",
+        "Model": "samsung a18",
+        "Version": "17",
+        "Image_URL": "/images/samsung_a18.png"
+    },
+    {
+        "Name": "CORN ClassyS26Ultra4G",
+        "Model": "CORN ClassyS26Ultra4G",
+        "Version": "16",
+        "Image_URL": "/images/CORN_ClassyS26Ultra4G.png"
+    },
+    {
+        "Name": "BLUEFOX Aura_A1",
+        "Model": "BLUEFOX Aura_A1t",
+        "Version": "16",
+        "Image_URL": "/images/BLUEFOX_Aura_A1t.png"
+    },
+    {
+        "Name": "Prestigio_Solutions PSMB011Pxx1",
+        "Model": "Prestigio_Solutions PSMB011Pxx1",
+        "Version": "13",
+        "Image_URL": "/images/Prestigio_Solutions_PSMB011Pxx1.png"
+    },
+    {
+        "Name": "Trouver Fk01",
+        "Model": "Trouver Fk01",
+        "Version": "16",
+        "Image_URL": "/images/Trouver_Fk01.png"
+    },
+    {
+        "Name": "BIRDCLAW P7C-B",
+        "Model": "BIRDCLAW P7C-B",
+        "Version": "16",
+        "Image_URL": "/images/BIRDCLAW_P7C-B.png"
+    },
+    {
+        "Name": "Plimpton Kids10_A16_JAE",
+        "Model": "Plimpton Kids10_A16_JAE",
+        "Version": "16",
+        "Image_URL": "/images/Plimpton_Kids10_A16_JAE.png"
+    },
+    {
+        "Name": "Doogee Tab G6 Max",
+        "Model": "DOOGEE P8S",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_P8S.png"
+    },
+    {
+        "Name": "Cozyla CalendarPlus3_24",
+        "Model": "COZYLA CalendarPlus3_24",
+        "Version": "16",
+        "Image_URL": null
+    },
+    {
+        "Name": "Hotwav X100 Mecha",
+        "Model": "HOTWAV X100_Mecha",
+        "Version": "16",
+        "Image_URL": "/images/HOTWAV_X100_Mecha.png"
+    },
+    {
+        "Name": "Huion Kamvas Pad 12",
+        "Model": "HUION Kamvas_Pad_12",
+        "Version": "16",
+        "Image_URL": "/images/HUION_Kamvas_Pad_12.png"
+    },
+    {
+        "Name": "Veidoo T50_PLUS",
+        "Model": "Veidoo T50_PLUS",
+        "Version": "15",
+        "Image_URL": "/images/Veidoo_T50_PLUS.png"
+    },
+    {
+        "Name": "SEGO SEGO_Smart_20_HD",
+        "Model": "SEGO SEGO_Smart_20_HD",
+        "Version": "16",
+        "Image_URL": "/images/SEGO_SEGO_Smart_20_HD.png"
+    },
+    {
+        "Name": "VS Visu VS-DUAL-86",
+        "Model": "VS t7_an400",
+        "Version": "14",
+        "Image_URL": "/images/VS_t7_an400.png"
+    },
+    {
+        "Name": "Teclast P35_Y",
+        "Model": "Teclast P35_Y",
+        "Version": "16",
+        "Image_URL": "/images/Teclast_P35_Y.png"
+    },
+    {
+        "Name": "PicassoTab PicassoTab_Z13",
+        "Model": "PicassoTab Z13",
+        "Version": "15",
+        "Image_URL": "/images/PicassoTab_Z13.png"
+    },
+    {
+        "Name": "DIGMA_PRO Zoom_II",
+        "Model": "DIGMA_PRO TAXX0P0X",
+        "Version": "15",
+        "Image_URL": "/images/DIGMA_PRO_TAXX0P0X.png"
+    },
+    {
+        "Name": "NSVauto UNUNI_1641P_RSE",
+        "Model": "NSVGROUP UNUNI-1641P-RSE",
+        "Version": "13",
+        "Image_URL": "/images/NSVGROUP_UNUNI-1641P-RSE.png"
+    },
+    {
+        "Name": "raemond K50_US_C",
+        "Model": "raemond K50_US_C",
+        "Version": "16",
+        "Image_URL": "/images/raemond_K50_US_C.png"
+    },
+    {
+        "Name": "Daewoo DAEWOO AI SMART TV",
+        "Model": "Daewoo alameda",
+        "Version": "14",
+        "Image_URL": "/images/Daewoo_alameda.png"
+    },
+    {
+        "Name": "Archos SPACT110FHD34GULTRA_EEA",
+        "Model": "ARCHOS ACT110FHD34GULTRA",
+        "Version": "16",
+        "Image_URL": "/images/ARCHOS_ACT110FHD34GULTRA.png"
+    },
+    {
+        "Name": "SVITOO V13_B",
+        "Model": "SVITOO V13_B",
+        "Version": "16",
+        "Image_URL": "/images/SVITOO_V13_B.png"
+    },
+    {
+        "Name": "Doogee Blade10 Pro Energy",
+        "Model": "DOOGEE F1C-C_GO",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_F1C-C_GO.png"
+    },
+    {
+        "Name": "Motorola moto watch ultra",
+        "Model": "motorola atlas",
+        "Version": "16",
+        "Image_URL": "/images/motorola_atlas.png"
+    },
+    {
+        "Name": "Doogee Note60",
+        "Model": "DOOGEE 1928GT-Go",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_1928GT-Go.png"
+    },
+    {
+        "Name": "Smartfy T702S",
+        "Model": "Smartfy T702S",
+        "Version": "16",
+        "Image_URL": "/images/Smartfy_T702S.png"
+    },
+    {
+        "Name": "realme P4s Lite",
+        "Model": "realme RE6810",
+        "Version": "16",
+        "Image_URL": "/images/realme_RE6810.svg"
+    },
+    {
+        "Name": "MTN Alola Max 2",
+        "Model": "MTN Alola_Max2",
+        "Version": "16",
+        "Image_URL": "/images/MTN_Alola_Max2.png"
+    },
+    {
+        "Name": "CEPTER CTABLOTUS11KB",
+        "Model": "CEPTER CTABLOTUS11KB",
+        "Version": "16",
+        "Image_URL": "/images/CEPTER_CTABLOTUS11KB.png"
+    },
+    {
+        "Name": "G-Tab Z",
+        "Model": "G-Tab Z",
+        "Version": "16",
+        "Image_URL": "/images/G-Tab_Z.png"
+    },
+    {
+        "Name": "VILLAON V60",
+        "Model": "VILLAON VILLAON-V655L",
+        "Version": "16",
+        "Image_URL": "/images/VILLAON_VILLAON-V655L.png"
+    },
+    {
+        "Name": "Digit Sonic_One",
+        "Model": "Digit Sonic_One",
+        "Version": "16",
+        "Image_URL": "/images/Digit_Sonic_One.png"
+    },
+    {
+        "Name": "Cubot A50",
+        "Model": "CUBOT A50",
+        "Version": "16",
+        "Image_URL": "/images/CUBOT_A50.png"
+    },
+    {
+        "Name": "Helio helio_110",
+        "Model": "helio helio_110",
+        "Version": "16",
+        "Image_URL": "/images/helio_helio_110.png"
+    },
+    {
+        "Name": "CRONIC Tab_20_Kids",
+        "Model": "CRONIC Tab_20_Kids",
+        "Version": "16",
+        "Image_URL": "/images/CRONIC_Tab_20_Kids.png"
+    },
+    {
+        "Name": "HUIHUANG S90Pro_ROW",
+        "Model": "HUIHUANG S90Pro",
+        "Version": "16",
+        "Image_URL": "/images/HUIHUANG_S90Pro.png"
+    },
+    {
+        "Name": "BNCF BPad X1",
+        "Model": "BNCF BPad_X1",
+        "Version": "16",
+        "Image_URL": "/images/BNCF_BPad_X1.png"
+    },
+    {
+        "Name": "Philips S7221",
+        "Model": "Philips S7221",
+        "Version": "16",
+        "Image_URL": "/images/Philips_S7221.png"
+    },
+    {
+        "Name": "ECOPAD C30plus",
+        "Model": "ECOPAD C30plus",
+        "Version": "16",
+        "Image_URL": "/images/ECOPAD_C30plus.png"
+    },
+    {
+        "Name": "Widevu WIDEVU_4K_ATV5S",
+        "Model": "WIDEVU halandri",
+        "Version": "14",
+        "Image_URL": "/images/WIDEVU_halandri.svg"
+    },
+    {
+        "Name": "Blackview LINK 5",
+        "Model": "Blackview LINK_5",
+        "Version": "17",
+        "Image_URL": "/images/Blackview_LINK_5.png"
+    },
+    {
+        "Name": "LT_Mobile LT_9910",
+        "Model": "LT LT_9910",
+        "Version": "16",
+        "Image_URL": "/images/LT_LT_9910.png"
+    },
+    {
+        "Name": "STboard HJ_M2",
+        "Model": "STboard HJ_M2",
+        "Version": "14",
+        "Image_URL": "/images/STboard_HJ_M2.png"
+    },
+    {
+        "Name": "PEICHENG CP31W",
+        "Model": "PEICHENG CP31W",
+        "Version": "16",
+        "Image_URL": "/images/PEICHENG_CP31W.png"
+    },
+    {
+        "Name": "VERAIZON V81",
+        "Model": "VERAIZON V81",
+        "Version": "16",
+        "Image_URL": "/images/VERAIZON_V81.png"
+    },
+    {
+        "Name": "Doogee Blade10 Power",
+        "Model": "DOOGEE F1G-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_F1G-C.png"
+    },
+    {
+        "Name": "raemond A90_ROW",
+        "Model": "raemond A90_ROW",
+        "Version": "16",
+        "Image_URL": "/images/raemond_A90_ROW.png"
+    },
+    {
+        "Name": "raemond L30_US_YK",
+        "Model": "raemond L30_US_YK",
+        "Version": "16",
+        "Image_URL": "/images/raemond_L30_US_YK.png"
+    },
+    {
+        "Name": "G-Tab G9",
+        "Model": "G-Tab G9_2",
+        "Version": "16",
+        "Image_URL": "/images/G-Tab_G9_2.png"
+    },
+    {
+        "Name": "RCT Pulse_8",
+        "Model": "RCT Pulse_8",
+        "Version": "16",
+        "Image_URL": "/images/RCT_Pulse_8.png"
+    },
+    {
+        "Name": "Samsung Galaxy A18",
+        "Model": "samsung a18m",
+        "Version": "17",
+        "Image_URL": "/images/samsung_a18m.png"
+    },
+    {
+        "Name": "Pritom P7_A11",
+        "Model": "PRITOM P7_A11",
+        "Version": "16",
+        "Image_URL": "/images/PRITOM_P7_A11.png"
+    },
+    {
+        "Name": "raemond K30_US_C",
+        "Model": "raemond K30_US_C",
+        "Version": "16",
+        "Image_URL": "/images/raemond_K30_US_C.png"
+    },
+    {
+        "Name": "Hotwav X100 SE",
+        "Model": "HOTWAV X100_SE",
+        "Version": "16",
+        "Image_URL": "/images/HOTWAV_X100_SE.png"
+    },
+    {
+        "Name": "Teclast ArtPad_ROW",
+        "Model": "Teclast ArtPad",
+        "Version": "16",
+        "Image_URL": "/images/Teclast_ArtPad.png"
+    },
+    {
+        "Name": "Doogee Blade10 Ultra Energy",
+        "Model": "DOOGEE F1CT-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_F1CT-C.png"
+    },
+    {
+        "Name": "mipo M34",
+        "Model": "mipo mipo_M34",
+        "Version": "15",
+        "Image_URL": "/images/mipo_mipo_M34.png"
+    },
+    {
+        "Name": "Infinix XPAD 30",
+        "Model": "Infinix Infinix-X1102D",
+        "Version": "16",
+        "Image_URL": "/images/Infinix_Infinix-X1102D.png"
+    },
+    {
+        "Name": "Blackview BV9300Pro Plus",
+        "Model": "Blackview BV9300Pro_Plus",
+        "Version": "16",
+        "Image_URL": "/images/Blackview_BV9300Pro_Plus.png"
+    },
+    {
+        "Name": "AVOCOR AVT-V_Series",
+        "Model": "Avocor AVT-V_Series",
+        "Version": "14",
+        "Image_URL": "/images/Avocor_AVT-V_Series.png"
+    },
+    {
+        "Name": "Umidigi UMIDIGI G100 5G",
+        "Model": "UMIDIGI G100_5G",
+        "Version": "15",
+        "Image_URL": "/images/UMIDIGI_G100_5G.png"
+    },
+    {
+        "Name": "Doogee Blade20 Plus",
+        "Model": "DOOGEE F1GT-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_F1GT-C.png"
+    },
+    {
+        "Name": "raemond K30_EEA_C",
+        "Model": "raemond K30_EEA_C",
+        "Version": "16",
+        "Image_URL": "/images/raemond_K30_EEA_C.png"
+    },
+    {
+        "Name": "OSCAL BOLT 2",
+        "Model": "OSCAL BOLT_2",
+        "Version": "16",
+        "Image_URL": "/images/OSCAL_BOLT_2.png"
+    },
+    {
+        "Name": "vivo Y60e AI\u7248",
+        "Model": "vivo PD2542",
+        "Version": "16",
+        "Image_URL": "/images/vivo_PD2542.png"
+    },
+    {
+        "Name": "ZTLEKE S8Plus3",
+        "Model": "ZTLEKE S8Plus3",
+        "Version": "16",
+        "Image_URL": "/images/ZTLEKE_S8Plus3.png"
+    },
+    {
+        "Name": "NEXAL Nexal Pad",
+        "Model": "NEXAL NXLPAD1",
+        "Version": "16",
+        "Image_URL": "/images/NEXAL_NXLPAD1.png"
+    },
+    {
+        "Name": "KTCtv ESLEY",
+        "Model": "ESLEY dawu",
+        "Version": "14",
+        "Image_URL": "/images/ESLEY_dawu.svg"
+    },
+    {
+        "Name": "OSCAL PILOT 8",
+        "Model": "OSCAL PILOT_8",
+        "Version": "16",
+        "Image_URL": "/images/OSCAL_PILOT_8.png"
+    },
+    {
+        "Name": "Entity ENTITY_ERA_TAB_10",
+        "Model": "ENTITY ENTITY_ERA_TAB_10",
+        "Version": "16",
+        "Image_URL": "/images/ENTITY_ENTITY_ERA_TAB_10.png"
+    },
+    {
+        "Name": "FOSSiBOT F106 ROW",
+        "Model": "FOSSiBOT F106",
+        "Version": "14",
+        "Image_URL": "/images/FOSSiBOT_F106.png"
+    },
+    {
+        "Name": "Acer DA251Q",
+        "Model": "Acer Aquarius",
+        "Version": "14",
+        "Image_URL": "/images/Acer_Aquarius.png"
+    },
+    {
+        "Name": "Doogee Note57 Lite",
+        "Model": "DOOGEE 1928CL-D",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_1928CL-D.png"
+    },
+    {
+        "Name": "ACE France buzz Neo 5G",
+        "Model": "ACE buzz_Neo_5G",
+        "Version": "15",
+        "Image_URL": "/images/ACE_buzz_Neo_5G.png"
+    },
+    {
+        "Name": "KOESIO_SCREEN_ISITOUCH K_SIT_M2",
+        "Model": "KOESIO_SCREEN_ISITOUCH K_SIT_M2",
+        "Version": "15",
+        "Image_URL": "/images/KOESIO_SCREEN_ISITOUCH_K_SIT_M2.png"
+    },
+    {
+        "Name": "Doogee Fire 5 Ultra",
+        "Model": "DOOGEE G1E-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_G1E-C.png"
+    },
+    {
+        "Name": "Xiaomi 18 Fold",
+        "Model": "Xiaomi lhasa",
+        "Version": "17",
+        "Image_URL": "/images/Xiaomi_lhasa.png"
+    },
+    {
+        "Name": "Digit Sonic Lite",
+        "Model": "Digit Sonic_Lite",
+        "Version": "16",
+        "Image_URL": "/images/Digit_Sonic_Lite.png"
+    },
+    {
+        "Name": "Doogee Fire 5 Pro",
+        "Model": "DOOGEE G1-C",
+        "Version": "16",
+        "Image_URL": "/images/DOOGEE_G1-C.png"
+    },
+    {
+        "Name": "TEConnect TEConnect_IFPD",
+        "Model": "TEConnect rk3576",
+        "Version": "14",
+        "Image_URL": "/images/TEConnect_rk3576.png"
+    },
+    {
+        "Name": "iMin Swift2Ultra",
+        "Model": "iMin Swift2Ultra",
+        "Version": "13",
+        "Image_URL": "/images/iMin_Swift2Ultra.png"
+    },
+    {
+        "Name": "Kruger_Matz FLOW_12_EEA",
+        "Model": "Kruger_Matz FLOW_12",
+        "Version": "16",
+        "Image_URL": "/images/Kruger_Matz_FLOW_12.png"
+    },
+    {
+        "Name": "Iris A200PRO",
+        "Model": "IRIS A200PRO",
+        "Version": "14",
+        "Image_URL": "/images/IRIS_A200PRO.png"
+    },
+    {
+        "Name": "PEAQ PET_10180_H428S_EEA",
+        "Model": "PEAQ PET_10180_H428S",
+        "Version": "16",
+        "Image_URL": "/images/PEAQ_PET_10180_H428S.png"
+    },
+    {
+        "Name": "Welio RugPad",
+        "Model": "Welio RugPad_Pro",
+        "Version": "16",
+        "Image_URL": "/images/Welio_RugPad_Pro.png"
+    },
+    {
+        "Name": "TOXIIK A30",
+        "Model": "TOXIIK A30",
+        "Version": "16",
+        "Image_URL": "/images/TOXIIK_A30.png"
+    },
+    {
+        "Name": "Ceibal Minchir",
+        "Model": "Ceibal Minchir",
+        "Version": "16",
+        "Image_URL": "/images/Ceibal_Minchir.png"
+    },
+    {
+        "Name": "Sansui SANSUI TV",
+        "Model": "SANSUI katehaki",
+        "Version": "14",
+        "Image_URL": "/images/SANSUI_katehaki.png"
+    },
+    {
+        "Name": "Point Mobile PM84P",
+        "Model": "POINTMOBILE PM84P",
+        "Version": "15",
+        "Image_URL": "/images/POINTMOBILE_PM84P.png"
+    },
+    {
+        "Name": "RebotAi B11Air",
+        "Model": "RebotAi B11Air",
+        "Version": "16",
+        "Image_URL": "/images/RebotAi_B11Air.png"
     }
 ]
